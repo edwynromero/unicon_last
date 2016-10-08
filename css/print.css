@@ -1,0 +1,36 @@
+/* CSS Document */
+
+main {
+	margin: 0 auto;	
+}
+* {
+	font-family:Arial, HelveticVerdana, Geneva, sans-serif;	
+}
+#body {
+	width:7.5in;
+	padding:7px;
+	height:auto;
+	top:0.7in;
+	left:0.33in;
+}
+.tabla {
+	border-left:#000 thin solid;
+	border-top:#000 thin solid;	
+}
+.td {
+	font-size:10px;
+	border-bottom:#000 thin solid;
+	border-right:#000 thin solid;
+	text-align:right;	
+}
+.th {
+	font-size:10px;
+	border-bottom:#000 thin solid;
+	border-right:#000 thin solid;	
+}
+fieldset {
+	width:7.5in;	
+}
+#print {
+	display:none;	
+}

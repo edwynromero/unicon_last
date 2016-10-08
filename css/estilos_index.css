@@ -1,0 +1,42 @@
+#contenedor {
+	margin: 0 auto;
+background: url(../imagenes/fondo-body.jpg);
+	opacity:0.8;
+	width:800px;
+	height:600px;
+	border-radius:8px;
+	box-shadow: 5px 5px 5px rgba(220,220,220,0.5);
+}
+#contenedor {
+	margin: 0 auto;
+background: url(../imagenes/fondo-body.jpg);
+	width:1200px;
+	height:800px;
+	border-radius:15px;
+}
+#cabecera {
+	position:absolute;
+	width:1200px;
+	height:115px;
+	background: url(../imagenes/grunge72.jpg);
+	top: 0px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#menu {
+	position:relative;
+	width:1200px;
+	height:66px;
+	z-index:2;
+	left: 0px;
+	top: 103px;
+}
+#cuerpo {
+	text-align:center;
+	width:798px;
+	height:auto;
+	position:relative;
+	left: 0px;
+	top: 95px;
+	/*border: white solid 1px;*/
+}
